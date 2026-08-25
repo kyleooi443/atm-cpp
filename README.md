@@ -15,6 +15,5 @@ Updating this list as I build things out.
  Deposit funds
  Withdraw funds (with balance validation)
  Transaction history
- Multiple user accounts
- Data persistence (saving balances between runs)
+ Fund Transfers
  Input validation & error handling
